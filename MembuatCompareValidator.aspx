@@ -9,6 +9,7 @@
 <body>
     <form id="form1" runat="server">
         <div>
+            <!---TESTING--->
            <h1>Password :</h1>
             <asp:TextBox ID="TextBoxPass" runat="server" ></asp:TextBox><br />
             <h1>Change Password :</h1>
